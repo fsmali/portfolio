@@ -4,7 +4,7 @@ import { person } from '../Data';
 const Header = () => {
   return (
     <>
-      <header className="header" id="home">
+      <header className="header smooth-scroll" id="header">
         <div className="header-section">
           {person.map((item) => (
             <div key={item.id}>

@@ -2,7 +2,7 @@ import { skill } from '../Data';
 const Skills = () => {
   return (
     <>
-      <section className="skills clearfix" id="skills">
+      <section className="skills clearfix smooth-scroll" id="skills">
         <header className="skills-header">
           <h2>
             tech <span>stack</span>

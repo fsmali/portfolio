@@ -10,7 +10,7 @@ const Projects = () => {
 
   return (
     <>
-      <section className="project-section clearfix" id="projects">
+      <section className="project-section clearfix smooth-scroll" id="projects">
         <header className="skills-header">
           <h2>
             web <span>creation</span>

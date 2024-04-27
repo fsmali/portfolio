@@ -3,6 +3,12 @@
 Fonts
 ===============
 */
+html{
+  scroll-behavior: smooth
+}
+.smooth-scroll{
+  scroll-margin-top: 4rem
+}
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
 
 /*
